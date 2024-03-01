@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import "../components/Footer.css";
 
 const Footer = () => {
   return (
@@ -69,7 +70,7 @@ const Footer = () => {
                         </li>
                         <li>
                             <a href="#" className="flex items-center space-x-3 hover:text-sky-400 transition">
-                                <img className="w-5 h-5" src="https://c5.patreon.com/external/favicon/favicon.ico?v=69kMELnXkB" alt="patreon icon">
+                                <img className="w-5 h-5" src="https://c5.patreon.com/external/favicon/favicon.ico?v=69kMELnXkB" alt="patreon icon"/>
                                 <span>Patreon</span>
                             </a>
                         </li>
@@ -104,6 +105,7 @@ const Footer = () => {
     </div>
     <div aria-hidden="true" className="absolute inset-0 w-full h-full bg-[#020314] opacity-80"></div>
 </footer>
+
   )
 }
 
