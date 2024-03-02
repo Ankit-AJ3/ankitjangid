@@ -51,29 +51,7 @@ const Footer = () => {
                                 </svg>
                                 <span>Facebook</span>
                             </a>
-                        </li>
-                        <li>
-                            <a href="#" className="flex items-center space-x-3 hover:text-sky-400 transition">
-                                <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="w-5" viewBox="0 0 16 16">
-                                    <path d="M9.025 8c0 2.485-2.02 4.5-4.513 4.5A4.506 4.506 0 0 1 0 8c0-2.486 2.02-4.5 4.512-4.5A4.506 4.506 0 0 1 9.025 8zm4.95 0c0 2.34-1.01 4.236-2.256 4.236-1.246 0-2.256-1.897-2.256-4.236 0-2.34 1.01-4.236 2.256-4.236 1.246 0 2.256 1.897 2.256 4.236zM16 8c0 2.096-.355 3.795-.794 3.795-.438 0-.793-1.7-.793-3.795 0-2.096.355-3.795.794-3.795.438 0 .793 1.699.793 3.795z"/>
-                                </svg>
-                                <span>Medium</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" className="flex items-center space-x-3 hover:text-sky-400 transition">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="5" viewBox="0 0 16 16">
-                                    <path d="M8 0a8 8 0 0 0-2.915 15.452c-.07-.633-.134-1.606.027-2.297.146-.625.938-3.977.938-3.977s-.239-.479-.239-1.187c0-1.113.645-1.943 1.448-1.943.682 0 1.012.512 1.012 1.127 0 .686-.437 1.712-.663 2.663-.188.796.4 1.446 1.185 1.446 1.422 0 2.515-1.5 2.515-3.664 0-1.915-1.377-3.254-3.342-3.254-2.276 0-3.612 1.707-3.612 3.471 0 .688.265 1.425.595 1.826a.24.24 0 0 1 .056.23c-.061.252-.196.796-.222.907-.035.146-.116.177-.268.107-1-.465-1.624-1.926-1.624-3.1 0-2.523 1.834-4.84 5.286-4.84 2.775 0 4.932 1.977 4.932 4.62 0 2.757-1.739 4.976-4.151 4.976-.811 0-1.573-.421-1.834-.919l-.498 1.902c-.181.695-.669 1.566-.995 2.097A8 8 0 1 0 8 0z"/>
-                                </svg>
-                                <span>Pintrest</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#" className="flex items-center space-x-3 hover:text-sky-400 transition">
-                                <img className="w-5 h-5" src="https://c5.patreon.com/external/favicon/favicon.ico?v=69kMELnXkB" alt="patreon icon"/>
-                                <span>Patreon</span>
-                            </a>
-                        </li>
+                        </li>                        
                         <li>
                             <a href="#" className="flex items-center space-x-3 hover:text-sky-400 transition">
                                 <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" className="w-5" viewBox="0 0 16 16">
@@ -86,9 +64,9 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className="w-10/12 m-auto  mt-16 space-y-6 text-center sm:text-left sm:w-5/12 sm:mt-auto">
-                    <span className="block text-gray-300">We change the way UI components librairies are used</span>
+                    <span className="block text-gray-300">I am ankit jangid</span>
 
-                    <span className="block text-gray-300">Tailus Blocks &copy; 2021</span>
+                    <span className="block text-gray-300">Ankit Jangid&copy; 2024</span>
 
                     <span className="flex justify-between text-white"> 
                         <a href="#" className="font-semibold">Terms of Use </a>
