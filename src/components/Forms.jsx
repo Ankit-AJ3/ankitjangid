@@ -39,7 +39,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                     </svg>
                   </button>
                 </TERipple>
-
                 {/* <!-- Twitter button --> */}
                 <TERipple rippleColor="light">
                   <button
@@ -131,7 +130,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                     Register
                   </button>
                 </TERipple>
-
                 {/* <!-- Register link --> */}
                 <p className="mb-0 mt-2 pt-1 text-sm font-semibold">
                   Have an account?{" "}
