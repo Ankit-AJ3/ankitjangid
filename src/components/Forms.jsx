@@ -14,7 +14,6 @@ import { TEInput, TERipple } from "tw-elements-react";
               alt="Sample image"
             />
           </div>
-
           {/* <!-- Right column container --> */}
           <div className="mb-12 md:mb-0 md:w-8/12 lg:w-5/12 xl:w-5/12">
             <form>
@@ -115,11 +114,9 @@ import { TEInput, TERipple } from "tw-elements-react";
                     Remember me
                   </label>
                 </div>
-
                 {/* <!--Forgot password link--> */}
                 <a href="#!">Terms and conditions</a>
               </div>
-
               {/* <!-- Login button --> */}
               <div className="text-center lg:text-left">
                 <TERipple rippleColor="light">
