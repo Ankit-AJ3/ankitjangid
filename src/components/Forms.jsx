@@ -55,8 +55,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                     </svg>
                   </button>
                 </TERipple>
-
-                {/* <!-- Linkedin button --> */}
                 <TERipple rippleColor="light">
                   <button
                     type="button"
