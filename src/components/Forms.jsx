@@ -88,7 +88,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                 className="mb-6"
                 size="lg"
               ></TEInput>
-
               <div className="mb-6 flex items-center justify-between">
                 <div className="mb-[0.125rem] block min-h-[1.5rem] pl-[1.5rem]">
                   <input
@@ -104,7 +103,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                     Remember me
                   </label>
                 </div>
-                {/* <!--Forgot password link--> */}
                 <a href="#!">Terms and conditions</a>
               </div>
               {/* <!-- Login button --> */}
