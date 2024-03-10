@@ -76,8 +76,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                   Or
                 </p>
               </div>
-
-              {/* <!-- Email input --> */}
               <TEInput
                 type="email"
                 label="Email address"
