@@ -82,8 +82,6 @@ import { TEInput, TERipple } from "tw-elements-react";
                 size="lg"
                 className="mb-6"
               ></TEInput>
-
-              {/* <!--Password input--> */}
               <TEInput
                 type="password"
                 label="Password"
